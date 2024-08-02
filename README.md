@@ -1,5 +1,6 @@
 # 🚀 Configuring Production-Ready EKS Clusters with Terraform and GitHub Actions
-[![Medium Blog for this EKS Terraform project] (https://blog.stackademic.com/configuring-production-ready-eks-clusters-with-terraform-and-github-actions-c046e8d44865)]
+![Medium Blog for this EKS Terraform project](https://blog.stackademic.com/configuring-production-ready-eks-clusters-with-terraform-and-github-actions-c046e8d44865)
+
 
 ![EKS- GitHub Actions- Terraform](assets/Presentation1.gif)
 
