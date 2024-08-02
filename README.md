@@ -1,5 +1,8 @@
 # 🚀 Configuring Production-Ready EKS Clusters with Terraform and GitHub Actions
-!Medium Blog for this EKS Terraform project(https://blog.stackademic.com/configuring-production-ready-eks-clusters-with-terraform-and-github-actions-c046e8d44865)
+[Medium Blog for this EKS Terraform project](https://blog.stackademic.com/configuring-production-ready-eks-clusters-with-terraform-and-github-actions-c046e8d44865)
+
+--> Refer to eks/backend.tf 
+    Create S3 Bucket: my-gitaction-basket1111" and a Dynam DB Table with name: Lock-Files , ParitionKeys = LockID ( String )
 
 
 ![EKS- GitHub Actions- Terraform](assets/Presentation1.gif)
